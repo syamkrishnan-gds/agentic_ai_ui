@@ -21,7 +21,7 @@
 2025-05-28T04:18:14.6966645Z - **Assessment**: The utterance is clear, polite, and appropriately structured.
 2025-05-28T04:18:14.6966726Z - **Feedback**: While this utterance is polite, it is very similar in structure to Utterance 1. Consider rephrasing for diversity, e.g., "Would you mind sharing the details of John's salary?"
 2025-05-28T04:18:14.6966741Z
-2025-05-28T04:18:14.6966754Z ---
+2025-05-28T04:18:14.6966754Z ----
 2025-05-28T04:18:14.6966767Z
 2025-05-28T04:18:14.6966783Z ### Evaluation for Diversity:
 2025-05-28T04:18:14.6966803Z - Utterances 1 and 2 are somewhat similar in structure and vocabulary. Adding a version with an indirect question or alternative phrasing would enhance variety.

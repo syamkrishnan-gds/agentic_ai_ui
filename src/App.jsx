@@ -104,7 +104,7 @@ function App() {
     <div className="app-container">
       <div className="main-content">
         <div className="header">
-          <img src="/src/ey-logo1.svg" alt="EY Logo" className="ey-logo-small" />
+          <img src="/ey-logo1.svg" alt="EY Logo" className="ey-logo-small" />
           <span className="app-title">QEiAgent</span>
           <select
             className="domain-select"
